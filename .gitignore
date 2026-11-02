@@ -1,0 +1,5 @@
+FeedOnly.xcodeproj/
+Sources/Info.plist
+build/
+Payload/
+*.ipa
